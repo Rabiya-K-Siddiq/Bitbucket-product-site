@@ -269,7 +269,7 @@ header section.wrapper nav ul li a.button {
 	width: 33%;
 	padding-top: 20px;
 }
-#highlights section.item div.content-box label {
+#highlights section.item div.content-box span.label {
 	display: block;
 	text-transform: uppercase;
 	font-size: 12px;
